@@ -1,0 +1,47 @@
+{
+  "HomeSlider": {
+    "description": "Auto imported from components/holidays/HomeSlider.vue"
+  },
+  "Blogcards": {
+    "description": "Auto imported from components/blog/Blogcards.vue"
+  },
+  "SideNav": {
+    "description": "Auto imported from components/account/SideNav.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LangSwitcher": {
+    "description": "Auto imported from components/LangSwitcher.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "Navdark": {
+    "description": "Auto imported from components/Navdark.vue"
+  },
+  "Offercardcarousel": {
+    "description": "Auto imported from components/Offercardcarousel.vue"
+  },
+  "Offerscardtab": {
+    "description": "Auto imported from components/Offerscardtab.vue"
+  },
+  "Popularoutes": {
+    "description": "Auto imported from components/Popularoutes.vue"
+  },
+  "Promotionsbanner": {
+    "description": "Auto imported from components/Promotionsbanner.vue"
+  },
+  "Sliderhomepage": {
+    "description": "Auto imported from components/Sliderhomepage.vue"
+  },
+  "Tourcardcarousel": {
+    "description": "Auto imported from components/Tourcardcarousel.vue"
+  },
+  "UserAuthForm": {
+    "description": "Auto imported from components/UserAuthForm.vue"
+  },
+  "Langlist": {
+    "description": "Auto imported from components/langlist.vue"
+  }
+}
