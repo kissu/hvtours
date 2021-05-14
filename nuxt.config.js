@@ -1,6 +1,6 @@
 export default {
     head: {
-      title: 'Happy Voyaging Tours',
+      title: 'Happy Voyaging',
       htmlAttrs: {
         lang: 'en'
       },
