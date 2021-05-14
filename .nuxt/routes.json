@@ -2,449 +2,449 @@
   {
     "name": "index___en",
     "path": "/en",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_6cb69e04"
+    "_name": "_f03f26be"
   },
   {
     "name": "index___es",
     "path": "/es",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_6cb69e04"
+    "_name": "_f03f26be"
   },
   {
     "name": "blogs___en",
     "path": "/en/blogs",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/blogs/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/blogs/index.vue",
     "chunkName": "pages/blogs/index",
-    "_name": "_056d9a80"
+    "_name": "_716e603a"
   },
   {
     "name": "cars___en",
     "path": "/en/cars",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/cars/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/cars/index.vue",
     "chunkName": "pages/cars/index",
-    "_name": "_da6c9534"
+    "_name": "_9c5e70ba"
   },
   {
     "name": "cruises___en",
     "path": "/en/cruises",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/cruises/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/cruises/index.vue",
     "chunkName": "pages/cruises/index",
-    "_name": "_1853fb26"
+    "_name": "_a88d29e0"
   },
   {
     "name": "flights___en",
     "path": "/en/flights",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/flights/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/flights/index.vue",
     "chunkName": "pages/flights/index",
-    "_name": "_53a9781c"
+    "_name": "_e3e2a6d6"
   },
   {
     "name": "giftcard___en",
     "path": "/en/giftcard",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/giftcard/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/giftcard/index.vue",
     "chunkName": "pages/giftcard/index",
-    "_name": "_496a0972"
+    "_name": "_1fd4a704"
   },
   {
     "name": "holidays___en",
     "path": "/en/holidays",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/index.vue",
     "chunkName": "pages/holidays/index",
-    "_name": "_7c15073c"
+    "_name": "_067f281f"
   },
   {
     "name": "hotels___en",
     "path": "/en/hotels",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/hotels/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/hotels/index.vue",
     "chunkName": "pages/hotels/index",
-    "_name": "_61e7bc86"
+    "_name": "_491998fa"
   },
   {
     "name": "mice___en",
     "path": "/en/mice",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/mice/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/mice/index.vue",
     "chunkName": "pages/mice/index",
-    "_name": "_41a15285"
+    "_name": "_60a864c2"
   },
   {
     "name": "visa___en",
     "path": "/en/visa",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/visa/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/visa/index.vue",
     "chunkName": "pages/visa/index",
-    "_name": "_59f4f408"
+    "_name": "_78fc0645"
   },
   {
     "name": "blogs___es",
     "path": "/es/blogs",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/blogs/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/blogs/index.vue",
     "chunkName": "pages/blogs/index",
-    "_name": "_056d9a80"
+    "_name": "_716e603a"
   },
   {
     "name": "cars___es",
     "path": "/es/cars",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/cars/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/cars/index.vue",
     "chunkName": "pages/cars/index",
-    "_name": "_da6c9534"
+    "_name": "_9c5e70ba"
   },
   {
     "name": "cruises___es",
     "path": "/es/cruises",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/cruises/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/cruises/index.vue",
     "chunkName": "pages/cruises/index",
-    "_name": "_1853fb26"
+    "_name": "_a88d29e0"
   },
   {
     "name": "flights___es",
     "path": "/es/flights",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/flights/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/flights/index.vue",
     "chunkName": "pages/flights/index",
-    "_name": "_53a9781c"
+    "_name": "_e3e2a6d6"
   },
   {
     "name": "giftcard___es",
     "path": "/es/giftcard",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/giftcard/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/giftcard/index.vue",
     "chunkName": "pages/giftcard/index",
-    "_name": "_496a0972"
+    "_name": "_1fd4a704"
   },
   {
     "name": "holidays___es",
     "path": "/es/holidays",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/index.vue",
     "chunkName": "pages/holidays/index",
-    "_name": "_7c15073c"
+    "_name": "_067f281f"
   },
   {
     "name": "hotels___es",
     "path": "/es/hotels",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/hotels/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/hotels/index.vue",
     "chunkName": "pages/hotels/index",
-    "_name": "_61e7bc86"
+    "_name": "_491998fa"
   },
   {
     "name": "mice___es",
     "path": "/es/mice",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/mice/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/mice/index.vue",
     "chunkName": "pages/mice/index",
-    "_name": "_41a15285"
+    "_name": "_60a864c2"
   },
   {
     "name": "visa___es",
     "path": "/es/visa",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/visa/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/visa/index.vue",
     "chunkName": "pages/visa/index",
-    "_name": "_59f4f408"
+    "_name": "_78fc0645"
   },
   {
     "name": "about-contact___en",
     "path": "/en/about/contact",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/contact.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/contact.vue",
     "chunkName": "pages/about/contact",
-    "_name": "_7a0915ca"
+    "_name": "_31ec7e6d"
   },
   {
     "name": "about-privacy-policy___en",
     "path": "/en/about/privacy-policy",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/privacy-policy.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/privacy-policy.vue",
     "chunkName": "pages/about/privacy-policy",
-    "_name": "_1afcaadd"
+    "_name": "_2758564c"
   },
   {
     "name": "about-refunds-policy___en",
     "path": "/en/about/refunds-policy",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/refunds-policy.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/refunds-policy.vue",
     "chunkName": "pages/about/refunds-policy",
-    "_name": "_74e8eeec"
+    "_name": "_d23a9af2"
   },
   {
     "name": "about-terms-of-use___en",
     "path": "/en/about/terms-of-use",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/terms-of-use.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/terms-of-use.vue",
     "chunkName": "pages/about/terms-of-use",
-    "_name": "_562b8add"
+    "_name": "_bb61dfcc"
   },
   {
     "name": "account-bookings___en",
     "path": "/en/account/bookings",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/bookings/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/bookings/index.vue",
     "chunkName": "pages/account/bookings/index",
-    "_name": "_089b6ce3"
+    "_name": "_3e5fe8c0"
   },
   {
     "name": "account-hv-credits___en",
     "path": "/en/account/hv-credits",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/hv-credits.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/hv-credits.vue",
     "chunkName": "pages/account/hv-credits",
-    "_name": "_5e8afe01"
+    "_name": "_aaa2f984"
   },
   {
     "name": "account-login___en",
     "path": "/en/account/login",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/login.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/login.vue",
     "chunkName": "pages/account/login",
-    "_name": "_d4e68a9a"
+    "_name": "_4d702356"
   },
   {
     "name": "account-manage-payment-method___en",
     "path": "/en/account/manage-payment-method",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/manage-payment-method.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/manage-payment-method.vue",
     "chunkName": "pages/account/manage-payment-method",
-    "_name": "_021b5bba"
+    "_name": "_1b51c346"
   },
   {
     "name": "account-manage-travellers___en",
     "path": "/en/account/manage-travellers",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/manage-travellers.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/manage-travellers.vue",
     "chunkName": "pages/account/manage-travellers",
-    "_name": "_4a007fc6"
+    "_name": "_5d750be9"
   },
   {
     "name": "account-profile___en",
     "path": "/en/account/profile",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/profile.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/profile.vue",
     "chunkName": "pages/account/profile",
-    "_name": "_6075b073"
+    "_name": "_a5bd0754"
   },
   {
     "name": "account-promo-codes___en",
     "path": "/en/account/promo-codes",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/promo-codes.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/promo-codes.vue",
     "chunkName": "pages/account/promo-codes",
-    "_name": "_62ce279c"
+    "_name": "_06e60e95"
   },
   {
     "name": "account-register___en",
     "path": "/en/account/register",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/register.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/register.vue",
     "chunkName": "pages/account/register",
-    "_name": "_02237d49"
+    "_name": "_4af12dc6"
   },
   {
     "name": "account-reviews___en",
     "path": "/en/account/reviews",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/reviews.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/reviews.vue",
     "chunkName": "pages/account/reviews",
-    "_name": "_b00edc36"
+    "_name": "_16b74470"
   },
   {
     "name": "account-wallet___en",
     "path": "/en/account/wallet",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/wallet.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/wallet.vue",
     "chunkName": "pages/account/wallet",
-    "_name": "_19eb131f"
+    "_name": "_5e74bedc"
   },
   {
     "name": "account-wishlist___en",
     "path": "/en/account/wishlist",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/wishlist.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/wishlist.vue",
     "chunkName": "pages/account/wishlist",
-    "_name": "_564ea36b"
+    "_name": "_c1c75830"
   },
   {
     "name": "flights-listing___en",
     "path": "/en/flights/listing",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/flights/listing.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/flights/listing.vue",
     "chunkName": "pages/flights/listing",
-    "_name": "_0aa26aa4"
+    "_name": "_574e3687"
   },
   {
     "name": "holidays-listing___en",
     "path": "/en/holidays/listing",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/listing/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/listing/index.vue",
     "chunkName": "pages/holidays/listing/index",
-    "_name": "_a60fa2d2"
+    "_name": "_f5a66558"
   },
   {
     "name": "holidays-weekend-gateways___en",
     "path": "/en/holidays/weekend-gateways",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/weekend-gateways/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/weekend-gateways/index.vue",
     "chunkName": "pages/holidays/weekend-gateways/index",
-    "_name": "_364e6b38"
+    "_name": "_06a4111b"
   },
   {
     "name": "about-contact___es",
     "path": "/es/about/contact",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/contact.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/contact.vue",
     "chunkName": "pages/about/contact",
-    "_name": "_7a0915ca"
+    "_name": "_31ec7e6d"
   },
   {
     "name": "about-privacy-policy___es",
     "path": "/es/about/privacy-policy",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/privacy-policy.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/privacy-policy.vue",
     "chunkName": "pages/about/privacy-policy",
-    "_name": "_1afcaadd"
+    "_name": "_2758564c"
   },
   {
     "name": "about-refunds-policy___es",
     "path": "/es/about/refunds-policy",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/refunds-policy.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/refunds-policy.vue",
     "chunkName": "pages/about/refunds-policy",
-    "_name": "_74e8eeec"
+    "_name": "_d23a9af2"
   },
   {
     "name": "about-terms-of-use___es",
     "path": "/es/about/terms-of-use",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/about/terms-of-use.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/about/terms-of-use.vue",
     "chunkName": "pages/about/terms-of-use",
-    "_name": "_562b8add"
+    "_name": "_bb61dfcc"
   },
   {
     "name": "account-bookings___es",
     "path": "/es/account/bookings",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/bookings/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/bookings/index.vue",
     "chunkName": "pages/account/bookings/index",
-    "_name": "_089b6ce3"
+    "_name": "_3e5fe8c0"
   },
   {
     "name": "account-hv-credits___es",
     "path": "/es/account/hv-credits",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/hv-credits.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/hv-credits.vue",
     "chunkName": "pages/account/hv-credits",
-    "_name": "_5e8afe01"
+    "_name": "_aaa2f984"
   },
   {
     "name": "account-login___es",
     "path": "/es/account/login",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/login.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/login.vue",
     "chunkName": "pages/account/login",
-    "_name": "_d4e68a9a"
+    "_name": "_4d702356"
   },
   {
     "name": "account-manage-payment-method___es",
     "path": "/es/account/manage-payment-method",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/manage-payment-method.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/manage-payment-method.vue",
     "chunkName": "pages/account/manage-payment-method",
-    "_name": "_021b5bba"
+    "_name": "_1b51c346"
   },
   {
     "name": "account-manage-travellers___es",
     "path": "/es/account/manage-travellers",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/manage-travellers.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/manage-travellers.vue",
     "chunkName": "pages/account/manage-travellers",
-    "_name": "_4a007fc6"
+    "_name": "_5d750be9"
   },
   {
     "name": "account-profile___es",
     "path": "/es/account/profile",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/profile.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/profile.vue",
     "chunkName": "pages/account/profile",
-    "_name": "_6075b073"
+    "_name": "_a5bd0754"
   },
   {
     "name": "account-promo-codes___es",
     "path": "/es/account/promo-codes",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/promo-codes.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/promo-codes.vue",
     "chunkName": "pages/account/promo-codes",
-    "_name": "_62ce279c"
+    "_name": "_06e60e95"
   },
   {
     "name": "account-register___es",
     "path": "/es/account/register",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/register.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/register.vue",
     "chunkName": "pages/account/register",
-    "_name": "_02237d49"
+    "_name": "_4af12dc6"
   },
   {
     "name": "account-reviews___es",
     "path": "/es/account/reviews",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/reviews.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/reviews.vue",
     "chunkName": "pages/account/reviews",
-    "_name": "_b00edc36"
+    "_name": "_16b74470"
   },
   {
     "name": "account-wallet___es",
     "path": "/es/account/wallet",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/wallet.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/wallet.vue",
     "chunkName": "pages/account/wallet",
-    "_name": "_19eb131f"
+    "_name": "_5e74bedc"
   },
   {
     "name": "account-wishlist___es",
     "path": "/es/account/wishlist",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/wishlist.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/wishlist.vue",
     "chunkName": "pages/account/wishlist",
-    "_name": "_564ea36b"
+    "_name": "_c1c75830"
   },
   {
     "name": "flights-listing___es",
     "path": "/es/flights/listing",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/flights/listing.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/flights/listing.vue",
     "chunkName": "pages/flights/listing",
-    "_name": "_0aa26aa4"
+    "_name": "_574e3687"
   },
   {
     "name": "holidays-listing___es",
     "path": "/es/holidays/listing",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/listing/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/listing/index.vue",
     "chunkName": "pages/holidays/listing/index",
-    "_name": "_a60fa2d2"
+    "_name": "_f5a66558"
   },
   {
     "name": "holidays-weekend-gateways___es",
     "path": "/es/holidays/weekend-gateways",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/weekend-gateways/index.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/weekend-gateways/index.vue",
     "chunkName": "pages/holidays/weekend-gateways/index",
-    "_name": "_364e6b38"
+    "_name": "_06a4111b"
   },
   {
     "name": "account-bookings-id___en",
     "path": "/en/account/bookings/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/bookings/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/bookings/_id.vue",
     "chunkName": "pages/account/bookings/_id",
-    "_name": "_8e5567ea"
+    "_name": "_eba713f0"
   },
   {
     "name": "holidays-listing-id___en",
     "path": "/en/holidays/listing/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/listing/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/listing/_id.vue",
     "chunkName": "pages/holidays/listing/_id",
-    "_name": "_491eeabf"
+    "_name": "_1a7614bc"
   },
   {
     "name": "account-bookings-id___es",
     "path": "/es/account/bookings/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/account/bookings/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/account/bookings/_id.vue",
     "chunkName": "pages/account/bookings/_id",
-    "_name": "_8e5567ea"
+    "_name": "_eba713f0"
   },
   {
     "name": "holidays-listing-id___es",
     "path": "/es/holidays/listing/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/holidays/listing/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/holidays/listing/_id.vue",
     "chunkName": "pages/holidays/listing/_id",
-    "_name": "_491eeabf"
+    "_name": "_1a7614bc"
   },
   {
     "name": "blogs-id___en",
     "path": "/en/blogs/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/blogs/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/blogs/_id.vue",
     "chunkName": "pages/blogs/_id",
-    "_name": "_7ca03ce8"
+    "_name": "_0d0121ea"
   },
   {
     "name": "giftcard-id___en",
     "path": "/en/giftcard/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/giftcard/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/giftcard/_id.vue",
     "chunkName": "pages/giftcard/_id",
-    "_name": "_83c5b922"
+    "_name": "_37a89a6c"
   },
   {
     "name": "blogs-id___es",
     "path": "/es/blogs/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/blogs/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/blogs/_id.vue",
     "chunkName": "pages/blogs/_id",
-    "_name": "_7ca03ce8"
+    "_name": "_0d0121ea"
   },
   {
     "name": "giftcard-id___es",
     "path": "/es/giftcard/:id",
-    "component": "/Users/vin/Documents/Website Projects/hvapp/pages/giftcard/_id.vue",
+    "component": "/Users/vin/Documents/hvtourss/pages/giftcard/_id.vue",
     "chunkName": "pages/giftcard/_id",
-    "_name": "_83c5b922"
+    "_name": "_37a89a6c"
   }
 ]
