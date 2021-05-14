@@ -47,6 +47,14 @@ export default {
       {src: 'plugins/owl.js', ssr: false},
       {src: '~/plugins/axios'}, 
     ],
+
+
+    buildModules: [
+      // With options
+      '@nuxtjs/vuetify',
+    ],
+
+    
   
 
     components: true,
