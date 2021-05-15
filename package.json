@@ -18,7 +18,7 @@
     "@nuxtjs/dotenv": "^1.4.1",
     "@nuxtjs/proxy": "^2.1.0",
     "nanoid": "^2.1.11",
-    "nuxt": "^2.15.4",
+    "nuxt": "^2.15.6",
     "nuxt-i18n": "^6.27.0",
     "nuxt-lazy-load": "^1.2.6",
     "v-owl-carousel": "^1.0.8",
@@ -26,7 +26,6 @@
     "vue-owl-carousel2": "^2.0.7"
   },
   "devDependencies": {
-    "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/vuetify": "^1.11.3"
   }
 }
