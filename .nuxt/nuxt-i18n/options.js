@@ -19,7 +19,7 @@ export const options = {
   defaultLocaleRouteNameSuffix: "default",
   strategy: "prefix",
   lazy: false,
-  langDir: "/Users/vin/Documents/hvtourss/locales",
+  langDir: "/Users/vin/Documents/Website Projects/hvapp/locales",
   rootRedirect: null,
   detectBrowserLanguage: {"alwaysRedirect":true,"cookieCrossOrigin":false,"cookieDomain":null,"cookieKey":"lang","cookieSecure":false,"fallbackLocale":"en","onlyOnNoPrefix":false,"onlyOnRoot":false,"useCookie":true},
   differentDomains: false,

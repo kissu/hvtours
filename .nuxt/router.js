@@ -4,38 +4,38 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _f03f26be = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
-const _716e603a = () => interopDefault(import('../pages/blogs/index.vue' /* webpackChunkName: "pages/blogs/index" */))
-const _9c5e70ba = () => interopDefault(import('../pages/cars/index.vue' /* webpackChunkName: "pages/cars/index" */))
-const _a88d29e0 = () => interopDefault(import('../pages/cruises/index.vue' /* webpackChunkName: "pages/cruises/index" */))
-const _e3e2a6d6 = () => interopDefault(import('../pages/flights/index.vue' /* webpackChunkName: "pages/flights/index" */))
-const _1fd4a704 = () => interopDefault(import('../pages/giftcard/index.vue' /* webpackChunkName: "pages/giftcard/index" */))
-const _067f281f = () => interopDefault(import('../pages/holidays/index.vue' /* webpackChunkName: "pages/holidays/index" */))
-const _491998fa = () => interopDefault(import('../pages/hotels/index.vue' /* webpackChunkName: "pages/hotels/index" */))
-const _60a864c2 = () => interopDefault(import('../pages/mice/index.vue' /* webpackChunkName: "pages/mice/index" */))
-const _78fc0645 = () => interopDefault(import('../pages/visa/index.vue' /* webpackChunkName: "pages/visa/index" */))
-const _31ec7e6d = () => interopDefault(import('../pages/about/contact.vue' /* webpackChunkName: "pages/about/contact" */))
-const _2758564c = () => interopDefault(import('../pages/about/privacy-policy.vue' /* webpackChunkName: "pages/about/privacy-policy" */))
-const _d23a9af2 = () => interopDefault(import('../pages/about/refunds-policy.vue' /* webpackChunkName: "pages/about/refunds-policy" */))
-const _bb61dfcc = () => interopDefault(import('../pages/about/terms-of-use.vue' /* webpackChunkName: "pages/about/terms-of-use" */))
-const _3e5fe8c0 = () => interopDefault(import('../pages/account/bookings/index.vue' /* webpackChunkName: "pages/account/bookings/index" */))
-const _aaa2f984 = () => interopDefault(import('../pages/account/hv-credits.vue' /* webpackChunkName: "pages/account/hv-credits" */))
-const _4d702356 = () => interopDefault(import('../pages/account/login.vue' /* webpackChunkName: "pages/account/login" */))
-const _1b51c346 = () => interopDefault(import('../pages/account/manage-payment-method.vue' /* webpackChunkName: "pages/account/manage-payment-method" */))
-const _5d750be9 = () => interopDefault(import('../pages/account/manage-travellers.vue' /* webpackChunkName: "pages/account/manage-travellers" */))
-const _a5bd0754 = () => interopDefault(import('../pages/account/profile.vue' /* webpackChunkName: "pages/account/profile" */))
-const _06e60e95 = () => interopDefault(import('../pages/account/promo-codes.vue' /* webpackChunkName: "pages/account/promo-codes" */))
-const _4af12dc6 = () => interopDefault(import('../pages/account/register.vue' /* webpackChunkName: "pages/account/register" */))
-const _16b74470 = () => interopDefault(import('../pages/account/reviews.vue' /* webpackChunkName: "pages/account/reviews" */))
-const _5e74bedc = () => interopDefault(import('../pages/account/wallet.vue' /* webpackChunkName: "pages/account/wallet" */))
-const _c1c75830 = () => interopDefault(import('../pages/account/wishlist.vue' /* webpackChunkName: "pages/account/wishlist" */))
-const _574e3687 = () => interopDefault(import('../pages/flights/listing.vue' /* webpackChunkName: "pages/flights/listing" */))
-const _f5a66558 = () => interopDefault(import('../pages/holidays/listing/index.vue' /* webpackChunkName: "pages/holidays/listing/index" */))
-const _06a4111b = () => interopDefault(import('../pages/holidays/weekend-gateways/index.vue' /* webpackChunkName: "pages/holidays/weekend-gateways/index" */))
-const _eba713f0 = () => interopDefault(import('../pages/account/bookings/_id.vue' /* webpackChunkName: "pages/account/bookings/_id" */))
-const _1a7614bc = () => interopDefault(import('../pages/holidays/listing/_id.vue' /* webpackChunkName: "pages/holidays/listing/_id" */))
-const _0d0121ea = () => interopDefault(import('../pages/blogs/_id.vue' /* webpackChunkName: "pages/blogs/_id" */))
-const _37a89a6c = () => interopDefault(import('../pages/giftcard/_id.vue' /* webpackChunkName: "pages/giftcard/_id" */))
+const _6cb69e04 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _056d9a80 = () => interopDefault(import('../pages/blogs/index.vue' /* webpackChunkName: "pages/blogs/index" */))
+const _da6c9534 = () => interopDefault(import('../pages/cars/index.vue' /* webpackChunkName: "pages/cars/index" */))
+const _1853fb26 = () => interopDefault(import('../pages/cruises/index.vue' /* webpackChunkName: "pages/cruises/index" */))
+const _53a9781c = () => interopDefault(import('../pages/flights/index.vue' /* webpackChunkName: "pages/flights/index" */))
+const _496a0972 = () => interopDefault(import('../pages/giftcard/index.vue' /* webpackChunkName: "pages/giftcard/index" */))
+const _7c15073c = () => interopDefault(import('../pages/holidays/index.vue' /* webpackChunkName: "pages/holidays/index" */))
+const _61e7bc86 = () => interopDefault(import('../pages/hotels/index.vue' /* webpackChunkName: "pages/hotels/index" */))
+const _41a15285 = () => interopDefault(import('../pages/mice/index.vue' /* webpackChunkName: "pages/mice/index" */))
+const _59f4f408 = () => interopDefault(import('../pages/visa/index.vue' /* webpackChunkName: "pages/visa/index" */))
+const _7a0915ca = () => interopDefault(import('../pages/about/contact.vue' /* webpackChunkName: "pages/about/contact" */))
+const _1afcaadd = () => interopDefault(import('../pages/about/privacy-policy.vue' /* webpackChunkName: "pages/about/privacy-policy" */))
+const _74e8eeec = () => interopDefault(import('../pages/about/refunds-policy.vue' /* webpackChunkName: "pages/about/refunds-policy" */))
+const _562b8add = () => interopDefault(import('../pages/about/terms-of-use.vue' /* webpackChunkName: "pages/about/terms-of-use" */))
+const _089b6ce3 = () => interopDefault(import('../pages/account/bookings/index.vue' /* webpackChunkName: "pages/account/bookings/index" */))
+const _5e8afe01 = () => interopDefault(import('../pages/account/hv-credits.vue' /* webpackChunkName: "pages/account/hv-credits" */))
+const _d4e68a9a = () => interopDefault(import('../pages/account/login.vue' /* webpackChunkName: "pages/account/login" */))
+const _021b5bba = () => interopDefault(import('../pages/account/manage-payment-method.vue' /* webpackChunkName: "pages/account/manage-payment-method" */))
+const _4a007fc6 = () => interopDefault(import('../pages/account/manage-travellers.vue' /* webpackChunkName: "pages/account/manage-travellers" */))
+const _6075b073 = () => interopDefault(import('../pages/account/profile.vue' /* webpackChunkName: "pages/account/profile" */))
+const _62ce279c = () => interopDefault(import('../pages/account/promo-codes.vue' /* webpackChunkName: "pages/account/promo-codes" */))
+const _02237d49 = () => interopDefault(import('../pages/account/register.vue' /* webpackChunkName: "pages/account/register" */))
+const _b00edc36 = () => interopDefault(import('../pages/account/reviews.vue' /* webpackChunkName: "pages/account/reviews" */))
+const _19eb131f = () => interopDefault(import('../pages/account/wallet.vue' /* webpackChunkName: "pages/account/wallet" */))
+const _564ea36b = () => interopDefault(import('../pages/account/wishlist.vue' /* webpackChunkName: "pages/account/wishlist" */))
+const _0aa26aa4 = () => interopDefault(import('../pages/flights/listing.vue' /* webpackChunkName: "pages/flights/listing" */))
+const _a60fa2d2 = () => interopDefault(import('../pages/holidays/listing/index.vue' /* webpackChunkName: "pages/holidays/listing/index" */))
+const _364e6b38 = () => interopDefault(import('../pages/holidays/weekend-gateways/index.vue' /* webpackChunkName: "pages/holidays/weekend-gateways/index" */))
+const _8e5567ea = () => interopDefault(import('../pages/account/bookings/_id.vue' /* webpackChunkName: "pages/account/bookings/_id" */))
+const _491eeabf = () => interopDefault(import('../pages/holidays/listing/_id.vue' /* webpackChunkName: "pages/holidays/listing/_id" */))
+const _7ca03ce8 = () => interopDefault(import('../pages/blogs/_id.vue' /* webpackChunkName: "pages/blogs/_id" */))
+const _83c5b922 = () => interopDefault(import('../pages/giftcard/_id.vue' /* webpackChunkName: "pages/giftcard/_id" */))
 
 const emptyFn = () => {}
 
@@ -50,259 +50,259 @@ export const routerOptions = {
 
   routes: [{
     path: "/en",
-    component: _f03f26be,
+    component: _6cb69e04,
     name: "index___en"
   }, {
     path: "/es",
-    component: _f03f26be,
+    component: _6cb69e04,
     name: "index___es"
   }, {
     path: "/en/blogs",
-    component: _716e603a,
+    component: _056d9a80,
     name: "blogs___en"
   }, {
     path: "/en/cars",
-    component: _9c5e70ba,
+    component: _da6c9534,
     name: "cars___en"
   }, {
     path: "/en/cruises",
-    component: _a88d29e0,
+    component: _1853fb26,
     name: "cruises___en"
   }, {
     path: "/en/flights",
-    component: _e3e2a6d6,
+    component: _53a9781c,
     name: "flights___en"
   }, {
     path: "/en/giftcard",
-    component: _1fd4a704,
+    component: _496a0972,
     name: "giftcard___en"
   }, {
     path: "/en/holidays",
-    component: _067f281f,
+    component: _7c15073c,
     name: "holidays___en"
   }, {
     path: "/en/hotels",
-    component: _491998fa,
+    component: _61e7bc86,
     name: "hotels___en"
   }, {
     path: "/en/mice",
-    component: _60a864c2,
+    component: _41a15285,
     name: "mice___en"
   }, {
     path: "/en/visa",
-    component: _78fc0645,
+    component: _59f4f408,
     name: "visa___en"
   }, {
     path: "/es/blogs",
-    component: _716e603a,
+    component: _056d9a80,
     name: "blogs___es"
   }, {
     path: "/es/cars",
-    component: _9c5e70ba,
+    component: _da6c9534,
     name: "cars___es"
   }, {
     path: "/es/cruises",
-    component: _a88d29e0,
+    component: _1853fb26,
     name: "cruises___es"
   }, {
     path: "/es/flights",
-    component: _e3e2a6d6,
+    component: _53a9781c,
     name: "flights___es"
   }, {
     path: "/es/giftcard",
-    component: _1fd4a704,
+    component: _496a0972,
     name: "giftcard___es"
   }, {
     path: "/es/holidays",
-    component: _067f281f,
+    component: _7c15073c,
     name: "holidays___es"
   }, {
     path: "/es/hotels",
-    component: _491998fa,
+    component: _61e7bc86,
     name: "hotels___es"
   }, {
     path: "/es/mice",
-    component: _60a864c2,
+    component: _41a15285,
     name: "mice___es"
   }, {
     path: "/es/visa",
-    component: _78fc0645,
+    component: _59f4f408,
     name: "visa___es"
   }, {
     path: "/en/about/contact",
-    component: _31ec7e6d,
+    component: _7a0915ca,
     name: "about-contact___en"
   }, {
     path: "/en/about/privacy-policy",
-    component: _2758564c,
+    component: _1afcaadd,
     name: "about-privacy-policy___en"
   }, {
     path: "/en/about/refunds-policy",
-    component: _d23a9af2,
+    component: _74e8eeec,
     name: "about-refunds-policy___en"
   }, {
     path: "/en/about/terms-of-use",
-    component: _bb61dfcc,
+    component: _562b8add,
     name: "about-terms-of-use___en"
   }, {
     path: "/en/account/bookings",
-    component: _3e5fe8c0,
+    component: _089b6ce3,
     name: "account-bookings___en"
   }, {
     path: "/en/account/hv-credits",
-    component: _aaa2f984,
+    component: _5e8afe01,
     name: "account-hv-credits___en"
   }, {
     path: "/en/account/login",
-    component: _4d702356,
+    component: _d4e68a9a,
     name: "account-login___en"
   }, {
     path: "/en/account/manage-payment-method",
-    component: _1b51c346,
+    component: _021b5bba,
     name: "account-manage-payment-method___en"
   }, {
     path: "/en/account/manage-travellers",
-    component: _5d750be9,
+    component: _4a007fc6,
     name: "account-manage-travellers___en"
   }, {
     path: "/en/account/profile",
-    component: _a5bd0754,
+    component: _6075b073,
     name: "account-profile___en"
   }, {
     path: "/en/account/promo-codes",
-    component: _06e60e95,
+    component: _62ce279c,
     name: "account-promo-codes___en"
   }, {
     path: "/en/account/register",
-    component: _4af12dc6,
+    component: _02237d49,
     name: "account-register___en"
   }, {
     path: "/en/account/reviews",
-    component: _16b74470,
+    component: _b00edc36,
     name: "account-reviews___en"
   }, {
     path: "/en/account/wallet",
-    component: _5e74bedc,
+    component: _19eb131f,
     name: "account-wallet___en"
   }, {
     path: "/en/account/wishlist",
-    component: _c1c75830,
+    component: _564ea36b,
     name: "account-wishlist___en"
   }, {
     path: "/en/flights/listing",
-    component: _574e3687,
+    component: _0aa26aa4,
     name: "flights-listing___en"
   }, {
     path: "/en/holidays/listing",
-    component: _f5a66558,
+    component: _a60fa2d2,
     name: "holidays-listing___en"
   }, {
     path: "/en/holidays/weekend-gateways",
-    component: _06a4111b,
+    component: _364e6b38,
     name: "holidays-weekend-gateways___en"
   }, {
     path: "/es/about/contact",
-    component: _31ec7e6d,
+    component: _7a0915ca,
     name: "about-contact___es"
   }, {
     path: "/es/about/privacy-policy",
-    component: _2758564c,
+    component: _1afcaadd,
     name: "about-privacy-policy___es"
   }, {
     path: "/es/about/refunds-policy",
-    component: _d23a9af2,
+    component: _74e8eeec,
     name: "about-refunds-policy___es"
   }, {
     path: "/es/about/terms-of-use",
-    component: _bb61dfcc,
+    component: _562b8add,
     name: "about-terms-of-use___es"
   }, {
     path: "/es/account/bookings",
-    component: _3e5fe8c0,
+    component: _089b6ce3,
     name: "account-bookings___es"
   }, {
     path: "/es/account/hv-credits",
-    component: _aaa2f984,
+    component: _5e8afe01,
     name: "account-hv-credits___es"
   }, {
     path: "/es/account/login",
-    component: _4d702356,
+    component: _d4e68a9a,
     name: "account-login___es"
   }, {
     path: "/es/account/manage-payment-method",
-    component: _1b51c346,
+    component: _021b5bba,
     name: "account-manage-payment-method___es"
   }, {
     path: "/es/account/manage-travellers",
-    component: _5d750be9,
+    component: _4a007fc6,
     name: "account-manage-travellers___es"
   }, {
     path: "/es/account/profile",
-    component: _a5bd0754,
+    component: _6075b073,
     name: "account-profile___es"
   }, {
     path: "/es/account/promo-codes",
-    component: _06e60e95,
+    component: _62ce279c,
     name: "account-promo-codes___es"
   }, {
     path: "/es/account/register",
-    component: _4af12dc6,
+    component: _02237d49,
     name: "account-register___es"
   }, {
     path: "/es/account/reviews",
-    component: _16b74470,
+    component: _b00edc36,
     name: "account-reviews___es"
   }, {
     path: "/es/account/wallet",
-    component: _5e74bedc,
+    component: _19eb131f,
     name: "account-wallet___es"
   }, {
     path: "/es/account/wishlist",
-    component: _c1c75830,
+    component: _564ea36b,
     name: "account-wishlist___es"
   }, {
     path: "/es/flights/listing",
-    component: _574e3687,
+    component: _0aa26aa4,
     name: "flights-listing___es"
   }, {
     path: "/es/holidays/listing",
-    component: _f5a66558,
+    component: _a60fa2d2,
     name: "holidays-listing___es"
   }, {
     path: "/es/holidays/weekend-gateways",
-    component: _06a4111b,
+    component: _364e6b38,
     name: "holidays-weekend-gateways___es"
   }, {
     path: "/en/account/bookings/:id",
-    component: _eba713f0,
+    component: _8e5567ea,
     name: "account-bookings-id___en"
   }, {
     path: "/en/holidays/listing/:id",
-    component: _1a7614bc,
+    component: _491eeabf,
     name: "holidays-listing-id___en"
   }, {
     path: "/es/account/bookings/:id",
-    component: _eba713f0,
+    component: _8e5567ea,
     name: "account-bookings-id___es"
   }, {
     path: "/es/holidays/listing/:id",
-    component: _1a7614bc,
+    component: _491eeabf,
     name: "holidays-listing-id___es"
   }, {
     path: "/en/blogs/:id",
-    component: _0d0121ea,
+    component: _7ca03ce8,
     name: "blogs-id___en"
   }, {
     path: "/en/giftcard/:id",
-    component: _37a89a6c,
+    component: _83c5b922,
     name: "giftcard-id___en"
   }, {
     path: "/es/blogs/:id",
-    component: _0d0121ea,
+    component: _7ca03ce8,
     name: "blogs-id___es"
   }, {
     path: "/es/giftcard/:id",
-    component: _37a89a6c,
+    component: _83c5b922,
     name: "giftcard-id___es"
   }],
 
