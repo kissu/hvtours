@@ -1,0 +1,26 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": [
+    "@nuxtjs",
+    "prettier",
+    "plugin:prettier/recommended",
+    "plugin:nuxt/recommended",
+    "plugin:compat/recommended"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "no-mixed-spaces-and-tabs": "warn",
+    "no-empty-pattern": "warn",
+    "no-unused-vars": "warn",
+    "vue/comment-directive": 0
+  }
+}
